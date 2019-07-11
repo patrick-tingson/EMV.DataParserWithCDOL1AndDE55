@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMV_TLV_Parser", "EMV_TLV_Parser\EMV_TLV_Parser.csproj", "{09A363D7-B3DA-456D-81B8-E0443455A272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A363D7-B3DA-456D-81B8-E0443455A272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A363D7-B3DA-456D-81B8-E0443455A272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A363D7-B3DA-456D-81B8-E0443455A272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A363D7-B3DA-456D-81B8-E0443455A272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C649AB0-37B7-4FC3-A92C-69A75AB11066}
+	EndGlobalSection
+EndGlobal
