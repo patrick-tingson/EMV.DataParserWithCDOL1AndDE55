@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EMV_XXX")]
+[assembly: AssemblyTitle("EMV_TLV_Parser_Consume")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EMV_XXX")]
+[assembly: AssemblyProduct("EMV_TLV_Parser_Consume")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("09a363d7-b3da-456d-81b8-e0443455a272")]
+[assembly: Guid("00552ac0-3489-485a-9a47-88e9da5d0893")]
 
 // Version information for an assembly consists of the following four values:
 //
